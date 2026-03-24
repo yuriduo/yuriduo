@@ -1,9 +1,10 @@
-<p align="center"
+<div align="center">
+  
+ **[ATABOOK](https://eunashyuri.atabook.org/)** <img src="https://files.catbox.moe/bitdjc.png" width="120"/>
  
-[rentry](https://rentry.co/ripplesofthetide)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ [strawpage](https://ganqingimpact.straw.page/)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ [prns.cc](https://pronouns.cc/@REVERISTCALICO)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ·‎ ‎ ‎ ‎ ‎ ‎ ‎ [atabook](https://eunashyuri.atabook.org/)
- <p align="center"
+</div>
 
- ![](https://file.garden/aMn-jzbg43nKL-ik/tenor.gif)
-<p align="center"
+<div align="center">
 
-
+<img src="https://files.catbox.moe/ss2fk8.png" alt="hi kuni" width="120"/> **[YURI](https://github.com/yuritrait)**
+ </p>
