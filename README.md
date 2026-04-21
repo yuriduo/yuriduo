@@ -1,6 +1,6 @@
 <div align="center">
   
- **[RENTRY](https://rentry.co/arsenccatnip)** <img src="https://files.catbox.moe/bitdjc.png" width="120"/>
+ **[RENTRY](https://rentry.co/nepetar)** <img src="https://files.catbox.moe/bitdjc.png" width="120"/>
  
 </div>
 
