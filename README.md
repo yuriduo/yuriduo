@@ -1,6 +1,6 @@
 <div align="center">
   
- **[RENTRY](https://rentry.co/variabIe)** <img src="https://files.catbox.moe/bitdjc.png" width="120"/>
+ **[REPRIS & LINKS](https://repris.org/8ball)** <img src="https://files.catbox.moe/bitdjc.png" width="120"/>
  
 </div>
 
