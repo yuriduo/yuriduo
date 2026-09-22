@@ -6,5 +6,5 @@
 
 <div align="center">
 
-<img src="https://files.catbox.moe/ss2fk8.png" alt="hi kuni" width="120"/> **[YURI](https://github.com/yuritrait)**
+<img src="https://files.catbox.moe/ss2fk8.png" alt="hi kuni" width="120"/> **[YURI](https://github.com/yurlduo)**
  </p>
